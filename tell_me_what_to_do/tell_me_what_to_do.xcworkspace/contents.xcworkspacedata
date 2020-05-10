@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:UIImage+Gif.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/madeline/Documents/GitHub/what_to_do_app/tell_me_what_to_do/tell_me_what_to_do/TodoTableViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "group:tell_me_what_to_do.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
